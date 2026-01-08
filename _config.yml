@@ -2,11 +2,11 @@
 name: Kelly Atkinson
 title: Kelly Atkinson | Archery CV
 description: Olympic recurve archer representing New Zealand in World Archery and IFAA field events
-url: https://archery.ai
+url: https://kellyatkinson.github.io
 baseurl: ''
 email: kelly@archery.ai
-cover: https://archery.ai/img/og.png
-logo: https://archery.ai/img/emojis/technologist.png
+cover: https://kellyatkinson.github.io/img/og.png
+logo: https://kellyatkinson.github.io/img/emojis/technologist.png
 social:
   - title: email
     url: mailto:kelly@archery.ai
