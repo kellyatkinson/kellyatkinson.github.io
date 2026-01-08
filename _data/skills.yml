@@ -1,11 +1,16 @@
-management:
-  - item: projects (PRINCE2)
-  - item: programmes
-  - item: finances
-  
-systems:
-  - item: Google Drive
-  - item: Microsoft Office
-  - item: SmartSimple
-  - item: Xero
-  - item: Wordpress
+pbs:
+  - item: Outdoor 70 m — 591
+  - item: Indoor 18 m (60 arrows) — 544
+  - item: WA Field marked 24 — 292
+  - item: WA Field unmarked 24 — 297
+  - item: IFAA Field 28 — 478
+  - item: IFAA Hunter 28 — 475
+  - item: IFAA Animal 28 — 538
+
+records:
+  - item: Archery NZ national — WA Field unmarked
+  - item: IFAA Pacific Regional — Field aggregate (3 rounds) and single round
+  - item: NZFAA — four marked full-round records
+  - item: NZFAA — four marked half-round records
+  - item: NZFAA — one unmarked full-round record
+  - item: NZFAA — one unmarked half-round record

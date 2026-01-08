@@ -1,0 +1,15 @@
+<section class="section skills">
+  <div class="section__title">Equipment</div>
+  <div class="section__content">
+    <div class="skillz">
+      <div class="skillz__category">
+        <div class="skillz__category__label">Current setup</div>
+        <ul>
+          {% for piece in site.data.equipment %}
+          <li class="skillz__category__item">{{piece.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

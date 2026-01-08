@@ -4,18 +4,18 @@
     <!-- <p>I’ve picked up quite a few skills during the course of my three co-ops, and aim to improve these skills everyday. Here are a few of the technologies that I have experience with:</p> -->
     <div class="skillz">
       <div class="skillz__category">
-        <div class="skillz__category__label">Management</div>
+        <div class="skillz__category__label">Competition PBs</div>
         <ul>
-          {% for language in site.data.skills.management %}
-          <li class="skillz__category__item">{{management.item}}</li>
+          {% for pb in site.data.skills.pbs %}
+          <li class="skillz__category__item">{{pb.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Systems</div>
+        <div class="skillz__category__label">Records Held</div>
         <ul>
-          {% for framework in site.data.skills.systems %}
-          <li class="skillz__category__item">{{systems.item}}</li>
+          {% for record in site.data.skills.records %}
+          <li class="skillz__category__item">{{record.item}}</li>
           {% endfor %}
         </ul>
       </div>

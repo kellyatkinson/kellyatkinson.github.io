@@ -1,26 +1,19 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Kelly Atkinson
+title: Kelly Atkinson | Archery CV
+description: Olympic recurve archer representing New Zealand in World Archery and IFAA field events
+url: https://archery.ai
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: kelly@archery.ai
+cover: https://archery.ai/img/og.png
+logo: https://archery.ai/img/emojis/technologist.png
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
+    url: mailto:kelly@archery.ai
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://instagram.com/archersci
   - title: github
-    url: https://github.com/bchiang7
-  - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://github.com/kellyatkinson
 
 # Build settings
 markdown: kramdown

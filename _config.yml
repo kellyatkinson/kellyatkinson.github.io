@@ -1,21 +1,19 @@
 # Site settings
 name: Kelly Atkinson
-title: Kelly Atkinson | Managing Research
-description: Operations-focused manager of research in technology and science
-url: https://kellyatkinson.github.io/
+title: Kelly Atkinson | Archery CV
+description: Olympic recurve archer representing New Zealand in World Archery and IFAA field events
+url: https://archery.ai
 baseurl: ''
-email: kelly@kellyatkinson.net
-cover: https://kellyatkinson.github.io/img/og.png
-logo: https://kellyatkinson.github.io/img/emojis/technologist.png
+email: kelly@archery.ai
+cover: https://archery.ai/img/og.png
+logo: https://archery.ai/img/emojis/technologist.png
 social:
   - title: email
-    url: mailto:kelly@kellyatkinson.net
-  - title: twitter
-    url: https://twitter.com/kelly42
+    url: mailto:kelly@archery.ai
+  - title: instagram
+    url: https://instagram.com/archersci
   - title: github
     url: https://github.com/kellyatkinson
-  - title: linkedin
-    url: https://www.linkedin.com/in/science
 
 # Build settings
 markdown: kramdown
