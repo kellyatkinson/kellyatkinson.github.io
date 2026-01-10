@@ -1,54 +1,47 @@
 - company: IFAA World Field Archery Championships
-  url: https://www.ifaa-archery.org/
   time: 2024
-  position: World Champion — Adult Female Freestyle Limited Recurve
+  position: World Champion — Adult Female Freestyle Limited Recurve (AFFS-R)
+
+- company: IFAA Asia Pacific Regional Field Archery Championships
+  time: 2025
+  position: Asia-Pacific Regional Champion — Adult Female Freestyle Limited Recurve
 
 - company: IFAA Pacific Regional Bowhunter Championships
-  url: https://www.ifaa-archery.org/
   time: 2024
   position: Pacific Regional Champion — Adult Female Freestyle Limited Recurve
 
 - company: IFAA Pacific Regional Field Archery Championships
-  url: https://www.ifaa-archery.org/
   time: 2022
   position: Pacific Regional Champion — Adult Female Freestyle Limited Recurve
 
-- company: NZ Field Archery Association Nationals (Bowhunter)
-  url: https://www.nzfaa.org.nz/
-  time: 2024, 2023, 2022, 2021
+- company: NZ Field Archery Association Nationals (Field)
+  time: 2025, 2024, 2023, 2022, 2021, 2020
   position: National Champion — Adult Female Freestyle Limited Recurve
 
-- company: NZ Field Archery Association Nationals (Field)
-  url: https://www.nzfaa.org.nz/
-  time: 2024, 2023, 2022, 2021, 2020
+- company: NZ Field Archery Association Nationals (Bowhunter)
+  time: 2025, 2024, 2023, 2022, 2021
   position: National Champion — Adult Female Freestyle Limited Recurve
 
 - company: Archery NZ National Indoor Target Championships
-  url: https://www.archerynz.co.nz/
   time: 2023
-  position: National Indoor Target Champion — Open Women's Recurve
+  position: National Indoor Target Champion — Recurve Women (Open)
 
 - company: Archery NZ National Indoor Matchplay Championships
-  url: https://www.archerynz.co.nz/
   time: 2023
-  position: National Indoor Matchplay Champion — Open Women's Recurve
+  position: National Indoor Matchplay Champion — Recurve Women (Open)
 
 - company: Archery NZ North Island Target Championships
-  url: https://www.archerynz.co.nz/
   time: 2023, 2018
-  position: North Island Target Champion — Open Women's Recurve
+  position: North Island Target Champion — Recurve Women (Open)
 
 - company: Archery NZ National Clout Championships
-  url: https://www.archerynz.co.nz/
   time: 2021
-  position: National Clout Champion — Open Women's Recurve
+  position: National Clout Champion — Recurve Women (Open)
 
-- company: Archery NZ Champion of Champions
-  url: https://www.archerynz.co.nz/
+- company: Archery NZ Champion of Champions (Target, Clout, Field)
   time: 2020
-  position: Top overall — Open Women's Recurve (Target, Clout, Field)
+  position: Top overall — Recurve Women (Open)
 
 - company: One Tree Hill Cup
-  url: https://www.archerynz.co.nz/
   time: 2023
-  position: Winner — Open Women's Recurve
+  position: Winner — Recurve Women (Open)
