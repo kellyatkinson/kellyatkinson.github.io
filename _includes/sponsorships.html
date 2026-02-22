@@ -1,0 +1,14 @@
+<section class="section skills">
+  <div class="section__title">Sponsorships</div>
+  <div class="section__content">
+    <div class="skillz">
+      <div class="skillz__category">
+        <ul>
+          {% for sponsor in site.data.sponsorships %}
+          <li class="skillz__category__item">{{sponsor.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
