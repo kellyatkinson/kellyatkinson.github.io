@@ -5,7 +5,7 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Competition PBs</div>
         <ul>
-          {% for pb in site.data.skills.pbs %}
+          {% for pb in site.data.scores.pbs %}
           <li class="skillz__category__item">{{pb.item}}</li>
           {% endfor %}
         </ul>
@@ -13,7 +13,7 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Records Held</div>
         <ul>
-          {% for record in site.data.skills.records %}
+          {% for record in site.data.scores.records %}
           <li class="skillz__category__item">{{record.item}}</li>
           {% endfor %}
         </ul>
